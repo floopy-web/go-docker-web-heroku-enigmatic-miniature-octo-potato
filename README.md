@@ -49,7 +49,7 @@ Step 7/7 : CMD ./goapp
 ---> 8a678878edf7
 Successfully built 8a678878edf7
 Successfully tagged registry.heroku.com/enigmatic-beach-81231/web:latest
-=== Pushing web (/Users/slim/Projects/Code/Microservices/Docker/Heroku-Docker-Go/howtorundockerherokugo/zzsrc/Dockerfile)
+=== Pushing web ( Microservices/Docker/Heroku-Docker-Go/howtorundockerherokugo/zzsrc/Dockerfile)
 The push refers to repository [registry.heroku.com/enigmatic-beach-81231/web]
 9a0f627cc587: Pushed 
 2c35a191944d: Pushed 
