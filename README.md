@@ -4,7 +4,9 @@ docker run --rm -it -p 8080:8080 slim/my-first-go-docker-app
 
 heroku container:login
 
-heroku container:push web --app ${YOUR_APP_NAME}
+heroku container:push web --app enigmatic-beach-81231
+
+heroku open --app enigmatic-beach-81231
 
 heroku auth:token
 
